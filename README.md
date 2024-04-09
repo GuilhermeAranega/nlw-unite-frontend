@@ -15,13 +15,7 @@ O sistema fará um scan da credencial do participante para permitir a entrada no
 - Emissão de credenciais: Os participantes inscritos podem emitir uma credencial para o check-in no dia do evento.
 - Verificação de credenciais: O sistema realiza a verificação da credencial do participante no momento do check-in.
 
-## Instalação
-
-1. Clone o repositório: `git clone https://github.com/seu-usuario/pass-in-web.git`
-2. Acesse o diretório do projeto: `cd pass-in-web`
-3. Instale as dependências: `npm install`
-
-## Uso
+## Uso e instalação
 
 1. Baixe o servidor backend através do comando `git clone https://github.com/GuilhermeAranega/nlw-unite-backend`
 2. Entre na pasta baixada com o comando `cd nlw-unite-backend`
