@@ -8,13 +8,6 @@ Os participantes inscritos podem emitir uma credencial para check-in no dia do e
 
 O sistema fará um scan da credencial do participante para permitir a entrada no evento.
 
-## Funcionalidades
-
-- Cadastro de eventos: O organizador pode cadastrar os detalhes do evento, como nome, data, local e descrição.
-- Página de inscrição: Uma página pública é gerada automaticamente para que os participantes possam se inscrever no evento.
-- Emissão de credenciais: Os participantes inscritos podem emitir uma credencial para o check-in no dia do evento.
-- Verificação de credenciais: O sistema realiza a verificação da credencial do participante no momento do check-in.
-
 ## Uso e instalação
 
 1. Baixe o servidor backend através do comando `git clone https://github.com/GuilhermeAranega/nlw-unite-backend`
